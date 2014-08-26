@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-my first repository
+This is my first repository on GitHub!
+
+I really like :cookie:s.
